@@ -1,3 +1,20 @@
 p { color: orange;}
 body { background-color: grey}
 
+ul li {
+    color: yellow;
+}
+ol li{
+    color: blue;
+}
+ul li{
+    color: red;
+}
+ol li {
+    color: purple;
+}
+/* Comentario para classe*/
+.primeiro_item{
+    color: greenyellow;
+}
+/*comentario para ids */
