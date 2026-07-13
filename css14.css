@@ -1,0 +1,43 @@
+#linha01 {
+position: absolute;
+background-color: blue;
+width: 150px;
+color: white ;
+
+
+}
+#linha02 {
+position: absolute;
+background-color: white;
+width: 150px;
+color: white;
+}
+#linha03 {
+background-color: white;
+width: 30%;
+color: white;
+}
+#geral {
+background-color: cyan;
+width: 150px;
+
+}
+#geral #coluna01 {
+    background-color: purple;
+    width: 35%;
+    height: 10%;
+    color: white;
+    float: left;
+}
+#geral #coluna02 {
+    background-color: pink;
+    width: 35%;
+    height: 10%;
+    float: left;
+}
+#geral #coluna03 {
+    background-color: orange;
+    width: 30%;
+    height: 10%;
+    float: left;
+}
